@@ -1,4 +1,16 @@
-.img{
-    width:200px;
+h1{
+    color :blue;
     
+}
+p{
+    color:purple;
+}
+h3{
+    color:red;
+}
+h4{
+    color:rgb(90, 128, 0);
+}
+h5{
+    color:rgb(0, 128, 75);
 }
